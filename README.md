@@ -1,11 +1,11 @@
 # Rubio_test_09APR2026
-T
 
-test_fun <- function(x){
-result <- x+2
-return(result)
-}
+# This is a test repo this is the info it should contain:
 
-test_fun(2)
+# WHat the repo/ project is about
+# Where the data came from
+# What's the current plan
+# How is the repo organized
+# How is the repo organized
+# contact information
 
-# practice change comment
